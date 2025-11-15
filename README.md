@@ -31,8 +31,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
   <img width="12" />
-  <img src="https://www.phpmyadmin.net/static/images/logo.svg" height="30" />
-  <img width="12"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/XAMPP_logo.svg" height="30" />
+  <img width="12" />
+
 </div>
 
 ###
