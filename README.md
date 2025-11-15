@@ -15,7 +15,6 @@
   />
 </div>
 
-###
 
 <hr style="border: none; height: 3px; background-color: pink;">
 
