@@ -2,7 +2,7 @@
 
 
 
-## 🎓 Certificações
+<h2 align="center"> 🎓 Certificações</h2>
 
 <div align="center">
 
@@ -28,7 +28,6 @@
   />
 </div>
 
----
 
 ## 💻 Ferramentas e linguagens utilizadas
 
