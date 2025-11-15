@@ -1,7 +1,7 @@
 <h2 align="center">Olá, me chamo Analice!</h2>
 
-
-
+<p align="center">Atualmente encerrando o curso técnico de Desenvolvimento de Sistemas.</p>
+  
 <h2 align="center"> 🎓 Certificações</h2>
 
 <div align="center">
