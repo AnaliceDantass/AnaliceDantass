@@ -33,6 +33,8 @@
   <img width="12" />
   <img src="https://hotmart.s3.amazonaws.com/product_pictures/b2da88eb-844e-4a79-a82c-103b920c6815/xampplogo.jpg" height="30" />
   <img width="12" />
+  <img src="https://camo.githubusercontent.com/a0d0ba8fa841330130c8662f2aa0ceda2d1d69e492a0c94e4c8a1f40d4658f81/68747470733a2f2f636f64652e76697375616c73747564696f2e636f6d2f6173736574732f757064617465732f315f33352f6c6f676f2d737461626c652e706e67">
+  <img width="12" />
 
 </div>
 
