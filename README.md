@@ -1,5 +1,5 @@
 <h2 align="center">Olá, me chamo Analice!</h2>
-<p>Aspirante a desenvolvedora backend e com experiências em banco de dados.</p>
+<p align="center">Aspirante a desenvolvedora backend e com experiências em banco de dados.</p>
 
 <h2 align="center"> 👾 Sobre mim</h2>
 <p align="center">Estou aprimorando meus conhecimentos acerca do desenvolvimento web, e buscando mais aplicações voltadas para o backend.</p>
