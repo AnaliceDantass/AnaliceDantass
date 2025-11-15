@@ -1,6 +1,8 @@
 <h2 align="center">Olá, me chamo Analice!</h2>
+<p>Aspirante a desenvolvedora backend e com experiências em banco de dados.</p>
 
-<p align="center">Atualmente encerrando o curso técnico de Desenvolvimento de Sistemas.</p>
+<h2 align="center"> 👾 Sobre mim</h2>
+<p align="center">Estou aprimorando meus conhecimentos acerca do desenvolvimento web, e buscando mais aplicações voltadas para o backend.</p>
   
 <h2 align="center"> 🎓 Certificações</h2>
 
@@ -13,25 +15,15 @@
   <img src ="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" height="30"/>
 </div>
 
-
-
 <div align="center">
-
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=AnaliceDantass&show_icons=true&include_all_commits=true&count_private=true&title_color=F7CDE6&text_color=DCCFF7&icon_color=F4AFCF&bg_color=0A0A0A&hide_border=true" 
-       height="150" 
-  />
-
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=AnaliceDantass&layout=compact&title_color=F7CDE6&text_color=DCCFF7&icon_color=F4AFCF&bg_color=0A0A0A&hide_border=true"
-       height="150" 
+  <img src="https://github-readme-stats.vercel.app/api?username=AnaliceDantass&show_icons=true&include_all_commits=true&count_private=true&title_color=F7CDE6&text_color=DCCFF7&icon_color=F4AFCF&bg_color=0A0A0A&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnaliceDantass&layout=compact&title_color=F7CDE6&text_color=DCCFF7&icon_color=F4AFCF&bg_color=0A0A0A&hide_border=true" height="150" 
   />
 </div>
 
+<h2 align="center">💻 Ferramentas e linguagens utilizadas</h2>
 
-<h2 align="center"> 💻 Ferramentas e linguagens utilizadas</h2>
-
-<div align="left">
+<div align="center">
 
   <img src="https://hotmart.s3.amazonaws.com/product_pictures/b2da88eb-844e-4a79-a82c-103b920c6815/xampplogo.jpg" height="30" />
   <img width="12" />
