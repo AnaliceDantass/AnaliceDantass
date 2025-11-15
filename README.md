@@ -38,6 +38,6 @@
 
 <br clear="both"/>
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/AnaliceDantass/AnaliceDantass/output/snake.svg" />
 
 ###
