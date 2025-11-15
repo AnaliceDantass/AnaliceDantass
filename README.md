@@ -29,10 +29,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=F4AFCF&logoColor=1A1A1A&style=for-the-badge" height="35"/>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=DCCFF7&logoColor=1A1A1A&style=for-the-badge" height="35"/>
-</div>
 
 ###
 
