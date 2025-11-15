@@ -25,7 +25,8 @@
   <img width="12" />
   <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg" height="30" />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRM1IWBlq5u16nLYz_xK_vgppnj12c2eifBg&s" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" />
+  <img width="12" />
 </div>
 
 ###
