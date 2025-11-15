@@ -31,7 +31,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
   <img width="12" />
-  <img src="https://images.seeklogo.com/logo-png/27/1/xampp-logo-png_seeklogo-274098.png" height="30" />
+  <img src="https://hotmart.s3.amazonaws.com/product_pictures/b2da88eb-844e-4a79-a82c-103b920c6815/xampplogo.jpg" height="30" />
   <img width="12" />
 
 </div>
