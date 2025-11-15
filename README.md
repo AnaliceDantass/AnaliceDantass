@@ -1,4 +1,4 @@
-<h2 align="left">Olá, me chamo Analice! </h2>
+<h2 align="center">Olá, me chamo Analice!</h2>
 
 ###
 
