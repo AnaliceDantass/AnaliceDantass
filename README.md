@@ -29,7 +29,7 @@
 </div>
 
 
-## 💻 Ferramentas e linguagens utilizadas
+<h2 align="center"> 💻 Ferramentas e linguagens utilizadas</h2>
 
 <div align="left">
 
