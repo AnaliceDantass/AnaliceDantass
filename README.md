@@ -10,7 +10,7 @@
   />
 
   <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=SEU_USUARIO&layout=compact&title_color=F7CDE6&text_color=DCCFF7&icon_color=F4AFCF&bg_color=0A0A0A&hide_border=true"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=AnaliceDantass&layout=compact&title_color=F7CDE6&text_color=DCCFF7&icon_color=F4AFCF&bg_color=0A0A0A&hide_border=true"
        height="150" 
   />
 </div>
