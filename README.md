@@ -15,12 +15,6 @@
   <img src ="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" height="30"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnaliceDantass&show_icons=true&include_all_commits=true&count_private=true&title_color=F7CDE6&text_color=DCCFF7&icon_color=F4AFCF&bg_color=0A0A0A&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnaliceDantass&layout=compact&title_color=F7CDE6&text_color=DCCFF7&icon_color=F4AFCF&bg_color=0A0A0A&hide_border=true" height="150" 
-  />
-</div>
-
 <h2 align="center">💻 Ferramentas e linguagens utilizadas</h2>
 
 <div align="center">
