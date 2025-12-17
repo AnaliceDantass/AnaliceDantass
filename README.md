@@ -1,10 +1,10 @@
 <h2 align="center">Olá, me chamo Analice!</h2>
 <p align="center">Aspirante a desenvolvedora backend e com experiências em banco de dados.</p>
 
-<h2 align="center"> 👾 Sobre mim</h2>
+<h2 align="center"> Sobre mim</h2>
 <p align="center">Estou aprimorando meus conhecimentos acerca do desenvolvimento web, e buscando mais aplicações voltadas para o backend.</p>
   
-<h2 align="center"> 🎓 Certificações</h2>
+<h2 align="center"> Certificações</h2>
 
 <div align="center">
 
@@ -15,7 +15,7 @@
   <img src ="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" height="30"/>
 </div>
 
-<h2 align="center">💻 Ferramentas e linguagens utilizadas</h2>
+<h2 align="center"> Ferramentas e linguagens utilizadas</h2>
 
 <div align="center">
 
