@@ -1,5 +1,5 @@
-<h1 align="left">Olá, me chamo Analice!</h1>
-<p align="left">Tenho experiências em banco de dados e segurança cibernética. Estou apta a aprender novas habilidades voltadas à programação e suporte técnico.</p>
+<h1 align="center">Olá, me chamo Analice!</h1>
+<p align="center">Tenho experiências em banco de dados e segurança cibernética. Estou apta a aprender novas habilidades voltadas à programação e suporte técnico.</p>
 
 <h2 align="center"> Sobre mim</h2>
 <p align="center">Estou aprimorando meus conhecimentos acerca do desenvolvimento web, e buscando mais aplicações voltadas para o backend. Também tenho interesse por segurança cibernética e computação em nuvem.</p>
