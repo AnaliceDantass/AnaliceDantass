@@ -1,10 +1,10 @@
 <h1 align="center">Olá, me chamo Analice!</h1>
-<p align="center">Tenho experiências em banco de dados e segurança cibernética. Estou apta a aprender novas habilidades voltadas à programação e suporte técnico.</p>
+<p align="left">Tenho experiências em administração de banco de dados e segurança cibernética, e stou apta a aprender novas habilidades voltadas à programação e suporte técnico.</p>
 
-<h2 align="center"> Sobre mim</h2>
-<p align="center">Estou aprimorando meus conhecimentos acerca do desenvolvimento web, e buscando mais aplicações voltadas para o backend. Também tenho interesse por segurança cibernética e computação em nuvem.</p>
+<h2 align="left"> Sobre mim</h2>
+<p align="left">Atualmente estou aprimorando meu conhecimento acerca da Computação em Nuvem ao participar do programa Capacita Brasil do iRede. Tenho habilidaes voltadas à modelagemm de dados, desde estruturar modelagens conceituais à modelagem lógicas e aplicá-las no banco de dados a ser criado, e posteriormete gerenciar os dados. </p>
   
-<h2 align="center"> Certificações</h2>
+<h2 align="left"> Certificações</h2>
 
 <div align="center">
 
@@ -15,7 +15,7 @@
   <img src ="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" height="30"/>
 </div>
 
-<h2 align="center"> Ferramentas e linguagens utilizadas</h2>
+<h2 align="left"> Ferramentas e linguagens utilizadas</h2>
 
 <div align="center">
 
