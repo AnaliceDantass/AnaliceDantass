@@ -1,8 +1,10 @@
 <h1 align="center">Olá, me chamo Analice!</h1>
-<p align="left">Tenho experiências em administração de banco de dados e segurança cibernética, e stou apta a aprender novas habilidades voltadas à programação e suporte técnico.</p>
+<p align="left">Tenho experiências em administração de banco de dados e segurança cibernética, e estou apta a aprender novas habilidades voltadas à programação e suporte técnico.</p>
 
 <h2 align="left"> Sobre mim</h2>
-<p align="left">Atualmente estou aprimorando meu conhecimento acerca da Computação em Nuvem ao participar do programa Capacita Brasil do iRede. Tenho habilidaes voltadas à modelagemm de dados, desde estruturar modelagens conceituais à modelagem lógicas e aplicá-las no banco de dados a ser criado, e posteriormete gerenciar os dados. </p>
+<p align="left">Atualmente estou aprimorando meu conhecimento acerca da Computação em Nuvem ao participar do programa Capacita iRede, programa de Residência em Tecnologia da Informação e Comunicação (TIC) 20, desenvolvido pelo Ministério da Ciência, Tecnologia e Inovação em parceria com o iRede.
+ 
+Tenho habilidaes voltadas à modelagemm de dados, desde estruturar modelagens conceituais à modelagem lógicas e aplicá-las no banco de dados a ser criado, e posteriormete gerenciar os dados. Busco maneiras de como apurar meu conhecimento no desenvolvimento web, e metodologia de como posso aplicar minhas habilidades de segurança cibernética na programação.</p>
   
 <h2 align="left"> Certificações</h2>
 
