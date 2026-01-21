@@ -14,8 +14,8 @@ Tenho habilidaes voltadas à modelagemm de dados, desde estruturar modelagens co
     <img src="https://img.shields.io/badge/Google_Certificate-F7CDE6?style=for-the-badge&logo=google&logoColor=000000"/>
   <img src ="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" height="30"/>
   <br/>
-  <img src="https://img.shields.io/badge/Google_Certificate-F7CDE6?style=for-the-badge&logo=google&logoColor=000000"/>
-  <img src ="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" height="30"/>
+  <img src="https://img.shields.io/badge/AWS_Cloud_Foundations-F7CDE6?style=for-the-badge&logo=amazonaws&logoColor=000000"/>
+  <img src="https://images.credly.com/size/680x680/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" height="30"/>
 </div>
 
 <h2 align="left"> Ferramentas e linguagens utilizadas</h2>
