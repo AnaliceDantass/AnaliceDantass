@@ -51,5 +51,3 @@ Tenho habilidaes voltadas à modelagemm de dados, desde estruturar modelagens co
 
 </div>
 
-| ![Analice Dantas Araújo](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnaliceDantass&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=analicedantass&theme=dark) |
-| :-: | :-: |
