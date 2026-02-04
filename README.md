@@ -2,9 +2,10 @@
 <p align="justify">Tenho experiências em administração de banco de dados e segurança cibernética, e estou apta a aprender novas habilidades voltadas à programação e suporte técnico.</p>
 
 <h2 align="justify"> Sobre mim</h2>
-<p align="justify">Atualmente estou aprimorando meu conhecimento acerca da Computação em Nuvem ao participar do programa Capacita iRede, programa de Residência em Tecnologia da Informação e Comunicação (TIC) 20, desenvolvido pelo Ministério da Ciência, Tecnologia e Inovação em parceria com o iRede.
+<p align="justify">Atualmente estou aprimorando meu conhecimento acerca da Computação em Nuvem ao participar do programa Capacita iRede, programa de Residência em Tecnologia da Informação e Comunicação (TIC) 20, desenvolvido pelo Ministério da Ciência, Tecnologia e Inovação em parceria com o iRede. E, além disso, pretendo me especializar em infraestrutura a fim de prestar suporte técnico na minha carreira profissional ao estudar protocolos de redes, sistemas operacionais como o Linux e redes de computadores.
 <br>
-Tenho habilidaes voltadas à modelagemm de dados, desde estruturar modelagens conceituais à modelagem lógicas e aplicá-las no banco de dados a ser criado, e posteriormete gerenciar os dados. Busco maneiras de como apurar meu conhecimento no desenvolvimento web, e metodologia de como posso aplicar minhas habilidades de segurança cibernética na programação.</p>
+Tenho habilidades voltadas à modelagemm de dados, desde estruturar modelagens conceituais à modelagem lógicas e aplicá-las no banco de dados a ser criado, e posteriormete gerenciar os dados. Busco maneiras de como apurar meu conhecimento no desenvolvimento web, e metodologia de como posso aplicar minhas habilidades de segurança cibernética na programação.
+</p>
   
 <h2 align="left"> Certificações</h2>
 
