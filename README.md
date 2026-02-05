@@ -3,6 +3,8 @@
 <h2 align="justify"> Sobre mim</h2>
 <p align="justify">Atualmente estou aprimorando meu conhecimento em Computação em Nuvem ao participar do programa Capacita iRede, programa de Residência em Tecnologia da Informação e Comunicação (TIC) 20, desenvolvido pelo Ministério da Ciência, Tecnologia e Inovação em parceria com o iRede. E, além disso, pretendo me especializar em infraestrutura a fim de prestar suporte técnico na minha carreira profissional ao estudar protocolos de redes, sistemas operacionais como o Linux e redes de computadores.
 <br>
+  Tenho habilidades em segurança cibernética e busco aplicar métodos de segurança da informação em futuros projetos que englobam redes de computadores e sua infraestrutura.
+</p>
   
 <h2 align="left"> Certificações</h2>
 
