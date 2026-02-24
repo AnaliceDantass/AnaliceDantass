@@ -1,6 +1,8 @@
 <h1 align="center">Olá, me chamo Analice!</h1>
 <h2 align="justify"> Sobre mim</h2>
-<p align="justify">Atualmente estou aprimorando meu conhecimento em Computação em Nuvem ao participar do Capacita IREDE, programa de Capacitação e Residência Tecnológica financiado e promovido pelo Ministério da Ciência, Tecnologia e Inovação (MCTI). E, além disso, pretendo me especializar em infraestrutura a fim de prestar suporte técnico na minha carreira profissional ao estudar protocolos de redes, sistemas operacionais como o Linux e redes de computadores.
+<p align="justify">Atualmente estou aprimorando meu conhecimento em Computação em Nuvem ao participar do Capacita IREDE, programa de Capacitação e Residência Tecnológica financiado e promovido pelo Ministério da Ciência, Tecnologia e Inovação (MCTI), e também estou num processo de certificação do curso de Suporte Técnico ofertado pela Google, a fim de adquirir mais habilidades na área da Tecnologia da Informação e compreender como posso usá-la para ajudar as pessoas com resoluções de problemas de uma forma ágil.
+  <br>
+Pretendo me especializar em infraestrutura a fim de prestar suporte técnico na minha carreira profissional ao estudar protocolos de redes, sistemas operacionais como o Linux e redes de computadores.
 <br>
   Tenho habilidades em segurança cibernética e busco aplicar métodos de segurança da informação em futuros projetos que englobam redes de computadores e sua infraestrutura.
 </p>
