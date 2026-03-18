@@ -24,4 +24,4 @@
 </div>
 <br>
 <br>
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=analicedantass&show_icons=true&title_color=d07b92&text_color=FFEE8C&icon_color=d07b92&bg_color=000&cache_seconds=2300" alt="ilustração do status do github">
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=AnaliceDantass&show_icons=true&title_color=d07b92&text_color=FFEE8C&icon_color=d07b92&bg_color=000&cache_seconds=2300" alt="ilustração do status do github">
