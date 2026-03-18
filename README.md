@@ -12,15 +12,13 @@
 </div>
 <h2 align="left"> Ferramentas e linguagens utilizadas</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+   <img src="https://img.shields.io/badge/HTML-F7CDE6?style=for-the-badge&logo=html5&logoColor=000"/>
+   <img src="https://img.shields.io/badge/CSS-FFB7CE?style=for-the-badge&logo=css&logoColor=000"/>
+   <img src="https://img.shields.io/badge/PHP-F7CDE6?style=for-the-badge&logo=php&logoColor=000"/>
+<br>
+   <img src="https://img.shields.io/badge/Git-FFB7CE?style=for-the-badge&logo=git&logoColor=000"/>
+   <img src="https://img.shields.io/badge/Docker-F7CDE6?style=for-the-badge&logo=docker&logoColor=000"/>
+   <img src="https://img.shields.io/badge/VS_Code-FFB7CE?style=for-the-badge&logo=visualstudiocode&logoColor=000"/>
 </div>
 <br>
 <br>
