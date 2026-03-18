@@ -24,5 +24,14 @@
 </div>
 <br>
 <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=AnaliceDantass&show_icons=true&rank_icon=github&title_color=d07b92&text_color=FFEE8C&icon_color=d07b92&bg_color=000&cache_seconds=2300" alt="ilustração do status do github">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaliceDantass&layout=compact&langs_count=10&bg_color=000&title_color=d07b92&text_color=FFEE8C" alt="Top Languages"/>
+<table align="center">
+   <tr>
+      <td>
+         <img src="https://github-readme-stats.vercel.app/api?username=AnaliceDantass&show_icons=true&rank_icon=github&title_color=d07b92&text_color=FFEE8C&icon_color=d07b92&bg_color=000&cache_seconds=2300" alt="ilustração do status do github">
+      </td>
+      <td>
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaliceDantass&layout=compact&langs_count=10&bg_color=000&title_color=d07b92&text_color=FFEE8C" alt="Top Languages"/>
+      </td>
+   </tr>
+</table>
+
