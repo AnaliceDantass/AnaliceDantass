@@ -1,5 +1,3 @@
-
-
 <h2 align="left"> Certificações</h2>
 <div align="center">
    <a href ="https://www.credly.com/badges/0dc40e5f-76bb-453a-93f0-b12609ecdc32/public_url">
@@ -24,4 +22,6 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
-
+<br>
+<br>
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=analicedantass&show_icons=true&title_color=d07b92&text_color=FFEE8C&icon_color=d07b92&bg_color=000&cache_seconds=2300" alt="ilustração do status do github">
