@@ -24,4 +24,14 @@
 </div>
 <br>
 <br>
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=AnaliceDantass&show_icons=true&title_color=d07b92&text_color=FFEE8C&icon_color=d07b92&bg_color=000&cache_seconds=2300" alt="ilustração do status do github">
+<tr>
+   <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AnaliceDantass&show_icons=true&title_color=d07b92&text_color=FFEE8C&icon_color=d07b92&bg_color=000&cache_seconds=2300" alt="ilustração do status do github">
+   </td>
+   <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AnaliceDantass&show_icons=true&rank_icon=github&bg_color=1A1A1A&title_color=0A66C2&text_color=334155&icon_color=1F6FEB&border_color=1F6FEB"
+      alt="GitHub Stats"
+      height="170"
+    />
+   </td>
+</tr>
