@@ -1,5 +1,5 @@
 <h2 align="left">Sobre mim</h2>
-<p>Atualmente estou estudando sobre computação em nuvem ao participar da trilha de PSC do Capacita IREDE — programa de Capacitação e Residência Tecnológica financiado e promovido pelo Ministério da Ciência, Tecnologia e Inovação (MCTI) —, e buscando evoluir constantemente minhas habilidades em desenvolvimento web, cibersegurança e redes de computadores.</p>
+<p>Atualmente estou estudando sobre computação em nuvem ao participar da trilha de PSC do Capacita IREDE — programa de Capacitação e Residência Tecnológica financiado e promovido pelo Ministério da Ciência, Tecnologia e Inovação (MCTI) — e buscando evoluir constantemente minhas habilidades em desenvolvimento web, cibersegurança e redes de computadores.</p>
 
 <h2 align="left"> Certificações</h2>
 <div align="center">
