@@ -1,6 +1,11 @@
 <h2 align="left">Sobre mim</h2>
 <p>Atualmente estou estudando sobre computação em nuvem ao participar da trilha de PSC do Capacita IREDE — programa de Capacitação e Residência Tecnológica financiado e promovido pelo Ministério da Ciência, Tecnologia e Inovação (MCTI) — e buscando evoluir constantemente minhas habilidades em desenvolvimento web, cibersegurança e redes de computadores.</p>
 
+<h2 align="left">Habilidades</h2>
+<ul align="left">
+   <li align="left">Tenho habilidades em desenvolvimento web e experiência com HTML5, CSS3 e o framework Bootstrap ao criar páginas responsivas e estilizadas.</li>
+</ul>
+
 <h2 align="left"> Certificações</h2>
 <div align="center">
    <a href ="https://www.credly.com/badges/0dc40e5f-76bb-453a-93f0-b12609ecdc32/public_url">
