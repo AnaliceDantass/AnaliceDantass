@@ -3,7 +3,10 @@
 
 <h2 align="left">Habilidades</h2>
 <ul align="left">
-   <li align="left">Tenho habilidades em desenvolvimento web e experiência com HTML5, CSS3 e o framework Bootstrap ao criar páginas responsivas e estilizadas.</li>
+   <li align="left">Desenvolvimento web e experiências com HTML5, CSS3 e Bootstrap.</li>
+   <li align="left">Containerização de aplicações com Docker.</li>
+   <li align="left">Segurança cibernética.</li>
+
 </ul>
 
 <h2 align="left"> Certificações</h2>
