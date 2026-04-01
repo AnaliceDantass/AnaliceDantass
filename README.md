@@ -51,4 +51,8 @@
    </tr>
 </table>
 
+<div align="center"> 
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnaliceDantass&bg_color=000&color=FFB7CE&line=FFB7CE&point=FFFFFF&area=true&area_color=F7CDE6&hide_border=true"/>
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB7CE&height=100&section=footer&animation=fadeIn" width="100%"/>
