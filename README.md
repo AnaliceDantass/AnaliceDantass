@@ -49,20 +49,13 @@
 
 </div>
 <br>
-<br>
-<table align="center">
-   <tr>
-      <td>
-         <img src="https://github-readme-stats.vercel.app/api?username=AnaliceDantass&show_icons=true&rank_icon=github&title_color=d07b92&text_color=FDF38A&icon_color=d07b92&bg_color=000&cache_seconds=2300" alt="ilustração do status do github">
-      </td>
-      <td>
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaliceDantass&layout=compact&langs_count=10&bg_color=000&title_color=d07b92&text_color=FDF38A" alt="Top Languages"/>
-      </td>
-   </tr>
-</table>
+<p align="center">
+ <img height="180em" src="https://github-stats-extended.vercel.app/api?username=AnaliceDantass&show_icons=true&title_color=FFB7CE&text_color=FFF59D&icon_color=FFB7CE&bg_color=000&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+ <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AnaliceDantass&layout=compact&langs_count=10&title_color=FFB7CE&text_color=FFF59D&bg_color=000&hide_border=true&count_private=true" alt="Linguagens mais utilizadas" />
+</p>
 
 <div align="center"> 
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnaliceDantass&bg_color=000&color=FFB7CE&line=FFB7CE&point=FFFFFF&area=true&area_color=F7CDE6&hide_border=true"/>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnaliceDantass&bg_color=000&color=FFB7CE&line=FFB7CE&point=FFF&area=true&area_color=d07b92&hide_border=true"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB7CE&height=100&section=footer&animation=fadeIn" width="100%"/>
