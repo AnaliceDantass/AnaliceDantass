@@ -18,7 +18,6 @@
 
 </ul>
 
-
 <h2 align="left"> Certificações</h2>
 <div align="center">
    <a href ="https://www.credly.com/badges/0dc40e5f-76bb-453a-93f0-b12609ecdc32/public_url">
@@ -49,6 +48,8 @@
 
 </div>
 <br>
+
+<h2 align="left">Gráficos</h2>
 <p align="center">
  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=AnaliceDantass&show_icons=true&title_color=FFB7CE&text_color=FFF59D&icon_color=FFB7CE&bg_color=000&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AnaliceDantass&layout=compact&langs_count=10&title_color=FFB7CE&text_color=FFF59D&bg_color=000&hide_border=true&count_private=true" alt="Linguagens mais utilizadas" />
