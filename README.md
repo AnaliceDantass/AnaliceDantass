@@ -43,8 +43,8 @@
 
 <h2 align="left">Gráficos</h2>
 <p align="center">
- <img height="180em" src="https://github-stats-extended.vercel.app/api?username=AnaliceDantass&show_icons=true&title_color=F58092&text_color=FFF59D&icon_color=F58092&bg_color=000&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
- <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AnaliceDantass&layout=compact&langs_count=10&title_color=F58092&text_color=FFF59D&bg_color=000&hide_border=true&count_private=true" alt="Linguagens mais utilizadas" />
+   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=AnaliceDantass&show_icons=true&rank_icon=github&title_color=F58092&text_color=FFF59D&icon_color=F58092&bg_color=000&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AnaliceDantass&layout=compact&langs_count=10&title_color=F58092&text_color=FFF59D&bg_color=000&hide_border=true&count_private=true" alt="Linguagens mais utilizadas" />
 </p>
 
 <div align="center"> 
