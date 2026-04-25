@@ -28,7 +28,7 @@
    <img src="https://img.shields.io/badge/Docker-F7CDE6?style=for-the-badge&logo=docker&logoColor=000"/>
    <img src="https://img.shields.io/badge/VS_Code-FFB7CE?style=for-the-badge&logo=visualstudiocode&logoColor=000"/>
    <img src="https://img.shields.io/badge/Figma-F7CDE6?style=for-the-badge&logo=figma&logoColor=000"/>  
-   <img src="https://img.shields.io/badge/Ubuntu-FFB7CE?style=for-the-badge&logo=ubuntu&logoColor=000"/>
+   <img src="https://img.shields.io/badge/Linux-FFB7CE?style=for-the-badge&logo=linux&logoColor=000"/>
 
 
 <br>
