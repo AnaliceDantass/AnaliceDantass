@@ -28,13 +28,13 @@
    <img src="https://img.shields.io/badge/Docker-F7CDE6?style=for-the-badge&logo=docker&logoColor=000"/>
    <img src="https://img.shields.io/badge/VS_Code-FFB7CE?style=for-the-badge&logo=visualstudiocode&logoColor=000"/>
    <img src="https://img.shields.io/badge/Figma-F7CDE6?style=for-the-badge&logo=figma&logoColor=000"/>
-   <img src="https://img.shields.io/badge/Linux-F7CDE6?style=for-the-badge&logo=linux&logoColor=000"/>
+   <img src="https://img.shields.io/badge/Linux-FFB7CE?style=for-the-badge&logo=linux&logoColor=000"/>
 
 
 <br>
-   <img src="https://img.shields.io/badge/HTML5-F7CDE6?style=for-the-badge&logo=html5&logoColor=000"/>
-   <img src="https://img.shields.io/badge/CSS3-FFB7CE?style=for-the-badge&logo=css&logoColor=000"/>
-   <img src="https://img.shields.io/badge/Node.js-F7CDE6?style=for-the-badge&logo=node.js&logoColor=000"/>
+   <img src="https://img.shields.io/badge/HTML5-FFB7CE?style=for-the-badge&logo=html5&logoColor=000"/>
+   <img src="https://img.shields.io/badge/CSS3-F7CDE6?style=for-the-badge&logo=css&logoColor=000"/>
+   <img src="https://img.shields.io/badge/Node.js-FFB7CE?style=for-the-badge&logo=node.js&logoColor=000"/>
 
 </div>
 <br>
