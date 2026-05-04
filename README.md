@@ -28,7 +28,6 @@
    <img src="https://img.shields.io/badge/Docker-F7CDE6?style=for-the-badge&logo=docker&logoColor=000"/>
    <img src="https://img.shields.io/badge/VS_Code-FFB7CE?style=for-the-badge&logo=visualstudiocode&logoColor=000"/>
    <img src="https://img.shields.io/badge/Figma-F7CDE6?style=for-the-badge&logo=figma&logoColor=000"/>
-   <img src="https://img.shields.io/badge/MySQL-FFB7CE?style=for-the-badge&logo=mysql&logoColor=000"/>
    <img src="https://img.shields.io/badge/Linux-F7CDE6?style=for-the-badge&logo=linux&logoColor=000"/>
 
 
